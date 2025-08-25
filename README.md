@@ -21,10 +21,17 @@ The dashboard provides insights into total sales, profitability, and product-lev
 ---
 
 ## Screenshots  
-- **sales** → Sales overview dashboard.  
-- **profit** → Profit performance dashboard.  
-- **states** → Regional sales and profit insights.  
-- **products** → Product-level sales and category breakdown.  
+### Sales Overview  
+![Sales Overview](sales.png)  
+
+### Profit Overview  
+![Profit Overview](profit.png)  
+
+### Regional Insights  
+![Regional Insights](states.png)  
+
+### Product Analysis  
+![Product Analysis](products.png)  
 
 ---
 
