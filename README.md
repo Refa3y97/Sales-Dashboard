@@ -1,4 +1,4 @@
-# Sales Dashboard
+# Superstore Sales Dashboard
 
 This Power BI project analyzes sales and profit performance across regions, products, and customer segments.  
 The dashboard provides insights into total sales, profitability, and product-level performance.
